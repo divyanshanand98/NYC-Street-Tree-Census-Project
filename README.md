@@ -1,4 +1,6 @@
-## NYC Street Tree Census Project
+# NYC Street Tree Census Project
+
+## Introduction
 This project is created to analyze New York City Tree Census data to find insights and anomalies, detect patterns and uncover any gaps during the process. The 2015 Street Tree Census was carried out by volunteers and staff organized by NYC Parks & Recreation and partner organizations. The tree data collected includes information on tree species, diameter, perception of health, location etc.
 
 ## The Dataset
