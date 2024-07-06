@@ -1,4 +1,5 @@
 # NYC Street Tree Census Project
+![](intro_image.png)
 
 ## Introduction
 This project is created to analyze New York City Tree Census data to find insights and anomalies, detect patterns and uncover any gaps during the process. The 2015 Street Tree Census was carried out by volunteers and staff organized by NYC Parks & Recreation and partner organizations. The tree data collected includes information on tree species, diameter, perception of health, location etc.
@@ -7,7 +8,7 @@ This project is created to analyze New York City Tree Census data to find insigh
 
 The dataset used for this project is the 2015 NYC Street Tree Census - Tree Data provided by Department of Parks and Recreation (DPR). 
 
-This dataset has nearly 684K rows, 45 columns and each row is a tree. It was sourced from the NYC Open Data website. 
+This dataset has nearly `684K` rows, `45` columns and each row is a tree. It was sourced from the NYC Open Data website. 
 
 Click [here](https://data.cityofnewyork.us/Environment/2015-Street-Tree-Census-Tree-Data/uvpi-gqnh) to explore the dataset yourself.
 
@@ -45,3 +46,5 @@ Click on this [link](NYC_Street_Tree_Census_Project.ipynb) to view the Jupyter N
 ## Conclusion
 
 We analyzed the NYC Street Tree Census Open Dataset to provide data-driven answers to all the questions. We first explored, cleaned and transformed the dataset, handled outliers and subsequently analyzed and visualized the data. Eventually, we uncovered various facts, insights, patterns and correlations and recommended a method to address the outlier trees efficiently.
+
+![](conclusion_image.png)
